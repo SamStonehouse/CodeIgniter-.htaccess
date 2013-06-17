@@ -1,5 +1,4 @@
-CodeIgniter-.htaccess
-=====================
+#CodeIgniter-.htaccess
 
 A .htaccess file to be used with CodeIgniter
 
@@ -11,3 +10,5 @@ Allows for `robots.txt` and `favicon.ico` to be grabbed as normal.
 It contains fixes for some WebFont loading issues I was having but these may not be required by all.
 
 The www rewrite rule is from http://www.farinspace.com/codeigniter-htaccess-file/
+
+####Remember to swap out `domain.tld` for your domain
